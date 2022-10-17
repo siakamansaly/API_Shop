@@ -14,13 +14,12 @@
 <div align="center">
     <img src="public/images/shop.png" alt="Screenshot" width="700px">
 </div>
-<p>Creation of a REST API allowing a customer to expose BileMo products to its users</p>
+<p>Creation of a REST API to expose Shop products</p>
 <p>The project contains:</p>
 <ul>
   <li>a link to the API documentation</li>
-  <li>a endpoint to connection</li>
   <li>endpoints to view products</li>
-  <li>endpoints to manage users</li>
+  <li>endpoints to manage products</li>
 </ul>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -28,7 +27,7 @@
 <!-- Built With -->
 ## Built With
 
-This section list the main frameworks/libraries used to start your project.
+This section list the main libraries used to start your project.
 <ul>
   <li><a href="https://www.php.net/" target="_blank">PHP</a></li>
   <li><a href="https://www.mysql.com/fr/">MySQL</a></li>
