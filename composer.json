@@ -1,0 +1,20 @@
+{
+    "name": "siaka/shop-api",
+    "description": "API REST Shop",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "WshopApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Siaka MANSALY",
+            "email": "siaka.mansaly@gmail.com"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^2.0"
+    }
+}
